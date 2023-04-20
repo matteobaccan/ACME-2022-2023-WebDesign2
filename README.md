@@ -26,4 +26,4 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
-| xxx | https://github.com/xxx | https://xxx |
+| Travain Sara | https://github.com/saratrav/ProgettoEcommerce | https://main--booksecommerce.netlify.app/ |
