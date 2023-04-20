@@ -26,4 +26,10 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 
 | Alunno | GitHub | Netlify |
 |:------|:------------|:-|
+| Carboni Simone | https://github.com/simocarbo/progetto_ecommerce | https://simonesitogragichemoto.netlify.app/ |
+| Colpo Alessia | https://github.com/AllyJeager/E-commerce-Web-Design-2/tree/main | https://mangacommerce.netlify.app/ |
+| Ferrari Alessandro | https://github.com/alessandroferr/progetto_ecommerce | https://ferariecommerce.netlify.app/ |
+| Minella Enrico | https://github.com/enryMine/Progetto-ecommerce | https://ecommercebello.netlify.app/ |
 | Travain Sara | https://github.com/saratrav/ProgettoEcommerce | https://main--booksecommerce.netlify.app/ |
+
+
