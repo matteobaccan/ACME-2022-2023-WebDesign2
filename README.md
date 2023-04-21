@@ -1,6 +1,6 @@
 # ACME-2022-2023-WebDesign2
 
-Questo repository espone i link a tutti i progetti sviluppati durante il corso di WebDesign2, tenuto per Accademia di Belle Arti di Novara, anno accademico 2022-2023.
+Questo repository espone i link a tutti i progetti sviluppati durante il corso di [WebDesign2](https://github.com/matteobaccan/CorsoWebDesign), tenuto per Accademia di Belle Arti di Novara, anno accademico 2022-2023.
 
 ## Progetto da svolgere durante il corso
 
