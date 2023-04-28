@@ -6,8 +6,6 @@ on:
     paths:
       - 'intro/*.*'
       - 'intro/assets/*.*'
-      - 'intro2/*.*'
-      - 'intro2/assets/*.*'
       - '.github/workflows/*.*'
 
 jobs:
