@@ -39,6 +39,7 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 | Freguglia Carlotta | https://github.com/ottafregu/ecommerce-freguglia-dolcini | https://dolcini-ecommerce-freguglia.netlify.app/ |
 | Minella Enrico | https://github.com/enryMine/Progetto-ecommerce | https://ecommercebello.netlify.app/ |
 | Piemontesi Monica | https://github.com/MonicaPiemontesi/Progetto-Ecommerce | https://ecommerce-piemontesi.netlify.app/ |
+| Pirosa Elena | https://github.com/Eskelee/progetto_ecommerce | https://progetto-ecommerce-elenapirosa.netlify.app/ |
 | Regalli Sara | https://github.com/Regaaasara/Negozio-di-piante | https://whimsical-gumdrop-4ad6db.netlify.app/ |
 | Travain Sara | https://github.com/saratrav/ProgettoEcommerce | https://main--booksecommerce.netlify.app/ |
 | Toso Elisa | https://github.com/tosoelisa/progetto_ecommerce | https://progettoecommerce-tosoelisa.netlify.app/ |
