@@ -32,3 +32,9 @@ _Lezione introduttiva del corso: conoscenza, obiettivi, primi argomenti.
 Parleremo di HTML, CSS, Javascript e di tecniche di sviluppo web_
 
 matteo@baccan.it – <https://www.baccan.it>
+
+---
+
+## Nuova Slide
+
+test
