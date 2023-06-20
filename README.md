@@ -40,7 +40,7 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 | Lia Silvia | https://github.com/liaasilvia/ProgettoEcommerce | https://liashouse.netlify.app/ |
 | Minella Enrico | https://github.com/enryMine/Progetto-ecommerce | https://ecommercebello.netlify.app/ |
 | Piemontesi Monica | https://github.com/MonicaPiemontesi/Progetto-Ecommerce | https://ecommerce-piemontesi.netlify.app/ |
-| Pirosa Elena | https://github.com/Eskelee/progetto_ecommerce | https://progetto-ecommerce-elenapirosa.netlify.app/ |
+| Pirosa Elena | https://github.com/Eskelee/progetto_ecommerce | https://keen-pavlova-11f3ee.netlify.app/ |
 | Regalli Sara | https://github.com/Regaaasara/Negozio-di-piante | https://whimsical-gumdrop-4ad6db.netlify.app/ |
 | Toso Elisa | https://github.com/tosoelisa/progetto_ecommerce | https://progettoecommerce-tosoelisa.netlify.app/ |
 | Travain Sara | https://github.com/saratrav/ProgettoEcommerce | https://main--booksecommerce.netlify.app/ |
