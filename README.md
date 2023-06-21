@@ -44,4 +44,5 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 | Regalli Sara | https://github.com/Regaaasara/Negozio-di-piante | https://whimsical-gumdrop-4ad6db.netlify.app/ |
 | Toso Elisa | https://github.com/tosoelisa/progetto_ecommerce | https://progettoecommerce-tosoelisa.netlify.app/ |
 | Travain Sara | https://github.com/saratrav/ProgettoEcommerce | https://main--booksecommerce.netlify.app/ |
+| Valli Aurora | https://github.com/valliaurora/sillage-ecommerce | https://sillage-ecommerce.netlify.app/ |
 | Vecchio Davide | https://github.com/DavideVecchio01/progetto_ecommerce | https://davidevecchioecommerce.netlify.app/ |
