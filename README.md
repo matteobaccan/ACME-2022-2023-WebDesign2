@@ -30,7 +30,7 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 | Bovio Noemi | https://github.com/Noemi-Bovio/sito-web-e-commerce | https://boviossproject.netlify.app/ |
 | Carboni Simone | https://github.com/simocarbo/progetto_ecommerce | https://simonesitogragichemoto.netlify.app/ |
 | Colpo Alessia | https://github.com/AllyJeager/E-commerce-Web-Design-2/tree/main | https://mangacommerce.netlify.app/ |
-| Dimitri Ludovica | https://github.com/ludodimi/ecommerce | https://ludoos.netlify.app/ |
+| Dimitri Ludovica | https://github.com/ludodimi/Ecommerce.Lodilo | https://ecommercelodilo.netlify.app/ |
 | Fera Erika | https://github.com/Erika25f/progetto-E-commerce/tree/main | https://feraprogettoe-commerce.netlify.app/ |
 | Ferrari Alessandro | https://github.com/alessandroferr/progetto_ecommerce | https://ferariecommerce.netlify.app/ |
 | Ferrenti Federica | https://github.com/federica100/progetto-E-COMMERCE | https://ferrentiprogettoe-commerce.netlify.app/ |
