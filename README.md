@@ -24,12 +24,12 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 
 ## Di seguito vengono riportati autori e progetti sviluppati
 
-| Alunno | GitHub | Netlify |
-|:------|:------------|:-|
+| Alunno | GitHub | Netlify | Slide |
+|:------|:------------|:-|:-|
 | Bergantin Giulia | https://github.com/bergantingiulia/Progetto-ECommerce | https://bergantinprogetto-ecommerce.netlify.app/ |
 | Bovio Noemi | https://github.com/Noemi-Bovio/sito-web-e-commerce | https://boviossproject.netlify.app/ |
 | Carboni Simone | https://github.com/simocarbo/progetto_ecommerce | https://simonesitogragichemoto.netlify.app/ |
-| Colpo Alessia | https://github.com/AllyJeager/E-commerce-Web-Design-2/tree/main | https://mangacommerce.netlify.app/ |
+| Colpo Alessia | https://github.com/AllyJeager/E-commerce-Web-Design-2/tree/main | https://mangacommerce.netlify.app/ | [Slide](https://github.com/AllyJeager/E-commerce-Web-Design-2/blob/main/intro/slide.pdf) |
 | Dimitri Ludovica | https://github.com/ludodimi/Ecommerce.Lodilo | https://ecommercelodilo.netlify.app/ |
 | Fera Erika | https://github.com/Erika25f/progetto-E-commerce/tree/main | https://feraprogettoe-commerce.netlify.app/ |
 | Ferrari Alessandro | https://github.com/alessandroferr/progetto_ecommerce | https://ferariecommerce.netlify.app/ |
