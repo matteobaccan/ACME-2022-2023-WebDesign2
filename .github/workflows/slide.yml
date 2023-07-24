@@ -19,6 +19,7 @@ jobs:
     - name: generate pdf
       run: | 
         cd intro
+        set PUPPETEER_TIMEOUT=1000
         npx @marp-team/marp-cli@latest slide.md --pdf --allow-local-files
       
     - name: commit & push
