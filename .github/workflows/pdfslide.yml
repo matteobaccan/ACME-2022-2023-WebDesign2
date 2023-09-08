@@ -16,12 +16,17 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: generate pdf
+    - name: generate PDF Slide
       run: | 
         cd intro
         npx @marp-team/marp-cli@latest slide.md --pdf --allow-local-files
       env:
         PUPPETEER_TIMEOUT: 0
+
+    - name: generate PDF Intro
+      run: | 
+        cd intro
+        npx @marp-team/marp-cli@latest intro.md --pdf --allow-local-files             
       
     - name: commit & push
       run: |
