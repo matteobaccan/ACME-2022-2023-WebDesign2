@@ -26,7 +26,7 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 
 | Alunno | GitHub | Netlify | Slide |
 |:------|:------------|:-|:-|
-| Bergantin Giulia | https://github.com/bergantingiulia/Progetto-ECommerce | <https://fabrianobergantin-ecommerce.netlify.app/> |
+| Bergantin Giulia | https://github.com/bergantingiulia/Progetto-ECommerce | <https://fabrianobergantin-ecommerce.netlify.app/> |  [Slide](https://github.com/bergantingiulia/Progetto-ECommerce/blob/main/intro/slide_esame.pdf) |
 | Bovio Noemi | https://github.com/Noemi-Bovio/sito-web-e-commerce | https://boviossproject.netlify.app/ |
 | Carboni Simone | https://github.com/simocarbo/progetto_ecommerce | https://simonesitogragichemoto.netlify.app/ |
 | Colpo Alessia | https://github.com/AllyJeager/E-commerce-Web-Design-2/tree/main | https://mangacommerce.netlify.app/ | [Slide](https://github.com/AllyJeager/E-commerce-Web-Design-2/blob/main/intro/slide.pdf) |
