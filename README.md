@@ -43,6 +43,6 @@ All'interno del corso di WebDesign2 ognuno andrà a realizzare la grafica di un 
 | Pirosa Elena | https://github.com/Eskelee/progetto_ecommerce | https://keen-pavlova-11f3ee.netlify.app/ |
 | Regalli Sara | <https://github.com/Regaaasara/Negozio-di-piante> | <https://sweet-flowering.netlify.app/> |
 | Toso Elisa | https://github.com/tosoelisa/progetto_ecommerce | https://progettoecommerce-tosoelisa.netlify.app/ |
-| Travain Sara | https://github.com/saratrav/ProgettoEcommerce | https://main--booksecommerce.netlify.app/ |
+| Travain Sara | https://github.com/saratrav/ProgettoEcommerce | <https://vansxsaratravain.netlify.app/> | [Slide](https://github.com/saratrav/Vans-x-Sara-Travain-ecommerce/blob/main/intro/intro.pdf) |
 | Valli Aurora | https://github.com/valliaurora/sillage-ecommerce | https://sillage-ecommerce.netlify.app/ |
 | Vecchio Davide | https://github.com/DavideVecchio01/progetto_ecommerce | https://davidevecchioecommerce.netlify.app/ |
